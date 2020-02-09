@@ -17,6 +17,7 @@ Finally, as we consider all of the honor history and basic statistic for top pla
 
 ![WechatIMG2](https://user-images.githubusercontent.com/60024531/74108432-6dcb7400-4b48-11ea-9b46-cf1d9037024f.jpeg)
  
+![WechatIMG3](https://user-images.githubusercontent.com/60024531/74108445-918eba00-4b48-11ea-980e-0f7e0b0a1902.jpeg)
 
   
     
