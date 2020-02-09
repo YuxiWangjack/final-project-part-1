@@ -7,7 +7,7 @@
       
  ##### Project Structure
       
-
+![WechatIMG5](https://user-images.githubusercontent.com/60024531/74108781-a3be2780-4b4b-11ea-8563-1bc4909bea51.jpeg)
 
 ### Initial sketches
 
@@ -27,6 +27,17 @@ Ultimate Tennis is a database with all the player’s statistics information, in
 Besides, the website also including the basic information for a player, like the 1st Serve %, Break Points Saved %, Ace %, Total Points Won %, and Service Points Won %, which also information that is valuable to consider who is the best player for all history. I will consider both honor (championship) and basic statistic to select several tennis players for finally selection. 
 
 Finally, as we consider all of the honor history and basic statistic for top players. We need to consider the matches between the top players if the players’ careers are in the same period, that is quite important because for now, the top three players in history (for most people reckon) are all still playing tennis now. After considering all the three standards, I believe we can know who is the true GOAT player in tennis history. 
+
+### Method and medium
+
+I planned to do this project using Shorthand.
+
+For the first page, I will use a picture of who is the great ever to get audience attention and also the potential greatest player to attract audience, Then I will post my first viz that is about the honor data for all the potential candidate, the data will mainly about Grand Slam, and masters tournaments, which are the most important match for tennis player and I will choose the top 5-6 player who got the most matches for next level selection. 
+
+For the next level selection, I will use the basic statistic for the potential 5-6 players, I will use another dataviz to show the five basic statistic for all the players and finally select 2-3 players for the final selection.
+
+For the final selection, I will consider the matches the matches between the top players and finally select the last one as the GOAT player. 
+
 
 
     
