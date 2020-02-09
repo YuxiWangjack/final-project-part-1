@@ -3,10 +3,11 @@
 ### Outline
  
  ##### Summary
-      Base on the honor data and the strength data, selected who is the best tennis player in history (GOAT player).
+      Base on the honor data and the strength data, selected who is the best tennis player in history (GOAT player).  
       
  ##### Project Structure
-      Ultimate Tennis is a database with all the player’s statistics information, including their honor history, which of cause is the most important standard to value the best player, and I will also use it as the first standard to select the top tier tennis player in the research. 
+      
+Ultimate Tennis is a database with all the player’s statistics information, including their honor history, which of cause is the most important standard to value the best player, and I will also use it as the first standard to select the top tier tennis player in the research. 
 
 Besides, the website also including the basic information for a player, like the 1st Serve %, Break Points Saved %, Ace %, Total Points Won %, and Service Points Won %, which also information that is valuable to consider who is the best player for all history. I will consider both honor (championship) and basic statistic to select several tennis players for finally selection. 
 
